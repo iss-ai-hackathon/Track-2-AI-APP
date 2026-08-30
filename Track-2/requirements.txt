@@ -1,6 +1,6 @@
 streamlit
+openai
+python-dotenv
 pandas
-numpy
-scikit-learn==1.9.0
-xgboost
+scikit-learn
 joblib
